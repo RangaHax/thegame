@@ -1,0 +1,14 @@
+# Directories #
+/bin/
+
+# Package Files #
+*.jar
+
+# Windows junk #
+Thumbs.db 
+Desktop.ini
+
+# Eclipse Junk #
+/.project/
+/.classpath/
+/.settings/
